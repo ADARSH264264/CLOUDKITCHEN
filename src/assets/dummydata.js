@@ -150,11 +150,12 @@ export const additionalData = [
 
 // FOOTER 
 export const socialIcons = [
-    { icon: FaFacebook, link: 'https://www.facebook.com/share/1DjbwhdR4z/', color: '#3b5998', label: 'Facebook' },
-    { icon: FaInstagram, link: 'https://www.instagram.com/hexagondigitalservices?igsh=MW1nanQ2eXIycnRkZQ==', color: '#E1306C', label: 'Instagram' },
-    { icon: FaXTwitter, link: 'https://x.com/HexagonDService?t=Vv5ReZAIbXONqkq_O0ksWQ&s=09', color: '#000', label: 'X' },
-    { icon: FaYoutube, link: 'https://youtube.com/@hexagondigitalservices?si=UnBt0AHI-ChN5Mze', color: '#FF0000', label: 'Youtube' },
+  { icon: FaFacebook,  link: 'https://www.facebook.com/Webcosin-100078737930658/',         color: '#3b5998', label: 'Facebook' },
+  { icon: FaInstagram, link: 'https://www.instagram.com/webcos_in/',                          color: '#E1306C', label: 'Instagram' },
+  { icon: FaXTwitter,   link: 'https://x.com/webcos_in',                                       color: '#000000', label: 'X' },
+  { icon: FaYoutube,    link: 'https://www.youtube.com/@WebcosOfficial',                        color: '#FF0000', label: 'YouTube' }
 ];
+
 
 // LOGIN 
 export const inputBase = "w-full rounded-lg bg-[#2D1B0E] text-amber-100 placeholder-amber-400 focus:outline-none focus:ring-2 focus:ring-amber-600";

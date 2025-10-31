@@ -1,16 +1,15 @@
-import IcedLatte from "./IcedLatte.png"
 import Mojito from "./Mojito.png"
-import Smoothie from "./Smoothie.png"
+ //  import Smoothie from "./Smoothie.png"
 import IcedTea from "./IcedTea.png"
 import Gelato from "./Gelato.png"
 import Cannoli from "./Cannoli.png"
-import TiramisuCake from "./TiramisuCake.png"
+ // import TiramisuCake from "./TiramisuCake.png"
 import PannaCotta from "./PannaCotta.png"
 import Lasagna from "./Lasagna.png"
-import SpaghettiCarbonara from "./SpaghettiCarbonara.png"
+// import SpaghettiCarbonara from "./SpaghettiCarbonara.png"
 import Risotto from "./Risotto.png"
 import MargheritaPizza from "./MargheritaPizza.png"
-import TacosalPastor from "./TacosalPastor.png"
+ // import TacosalPastor from "./TacosalPastor.png"
 import ChickenQuesadilla from "./ChickenQuesadilla.png"
 import Enchiladas from "./Enchiladas.png"
 import Fajitas from "./Fajitas.png"
@@ -23,12 +22,12 @@ import EggsBenedict from "./EggsBenedict.png"
 import BreakfastBurrito from "./BreakfastBurrito.png";
 import AvocadoToast from "./AvocadoToast.png"
 import PancakeswithMapleSyrup from "./PancakeswithMapleSyrup.png"
-import FruitSmoothieBowl from "./FruitSmoothieBowl.png"
+ //import FruitSmoothieBowl from "./FruitSmoothieBowl.png"
 import BananaToast from "./BananaToast.png"
-import BagelSmash from "./BagelSmash.png"
+// import BagelSmash from "./BagelSmash.png"
 import FruitWaffle from "./FruitWaffle.png"
 import FrenchToast from './FrenchToast.png'
-import SunnyOats from "./SunnyOats.png"
+ // import SunnyOats from "./SunnyOats.png"
 import BagelwithLox from "./BagelwithLox.png"
 import ChickenCaesarSalad from "./ChickenCaesarSalad.png"
 import ClubSandwich from "./ClubSandwich.png"
@@ -36,18 +35,18 @@ import VeggieWrap from "./VeggieWrap.png"
 import GrilledCheeseSandwich from "./GrilledCheeseSandwich.png"
 import GranolaParfait from "./GranolaParfait.png"
 import GrilledSalmonBowl from "./GrilledSalmonBowl.png"
-import SpicyBeefTacos from "./SpicyBeefTacos.png"
-import SushiCombo from "./SushiCombo.png"
-import TurkeyPanini from "./TurkeyPanini.png"
+ // import SpicyBeefTacos from "./SpicyBeefTacos.png"
+// import SushiCombo from "./SushiCombo.png"
+// import TurkeyPanini from "./TurkeyPanini.png"
 import QuinoaSalad from "./QuinoaSalad.png"
 import PastaSalad from "./PastaSalad.png"
-import FishTacos from "./FishTacos.png"
-import ChickenParmesan from "./ChickenParmesan.png"
+// import FishTacos from "./FishTacos.png"
+ import ChickenParmesan from "./ChickenParmesan.png"
 import PestoPastaWithShrimp from "./PestoPastaWithShrimp.png"
 import GarlicButterLambChops from "./GarlicButterLambChops.png"
-import VegetarianStuffedPeppers from "./VegetarianStuffedPeppers.png"
-import BeefBourguignon from "./BeefBourguignon.png"
-import VegetableStirFry from "./VegetableStirFry.png"
+// import VegetarianStuffedPeppers from "./VegetarianStuffedPeppers.png"
+// import BeefBourguignon from "./BeefBourguignon.png"
+ // import VegetableStirFry from "./VegetableStirFry.png"
 import ShrimpScampi from "./ShrimpScampi.png"
 import LambChops from "./LambChops.png"
 import ChilesRellenos from "./ChilesRellenos.png"
@@ -56,7 +55,7 @@ import PozoleRojo from "./PozoleRojo.png"
 import Churros from "./Churros.png"
 import Nachos from "./Nachos.png"
 import Burrito from "./Burrito.png"
-import Tamales from "./Tamales.png"
+// import Tamales from "./Tamales.png"
 import Chilaquiles from "./Chilaquiles.png"
 import FocacciaBread from "./FocacciaBread.png"
 import PenneArrabbiata from "./PenneArrabbiata.png"
@@ -65,7 +64,7 @@ import CapreseSalad from "./CapreseSalad.png"
 import FettuccineAlferdo from "./FettuccineAlferdo.png"
 import PestoPasta from "./PestoPasta.png"
 import Gnocchi from "./Gnocchi.png"
-import OssoBuco from "./OssoBuco.png"
+// import OssoBuco from "./OssoBuco.png"
 import Pavlova from "./Pavlova.png"
 import ChocolateLavaCake from "./ChocolateLavaCake.png"
 import Baklava from "./Baklava.png"
@@ -73,15 +72,15 @@ import CheeseCake from "./Cheesecake.png"
 import ChocolateMousse from "./ChocolateMousse.png"
 import Profiteroles from "./Profiteroles.png"
 import RicottaPie from "./RicottaPie.png"
-import StrawberryShortcake from "./StrawberryShortcake.png"
+ // import StrawberryShortcake from "./StrawberryShortcake.png"
 import MochaFrappuccino from "./MochaFrappuccino.png"
 import CaramelMacchiato from "./CaramelMacchiato.png"
-import StrawberryMilkshake from "./StrawberryMilkshake.png"
-import GreenTeaSmoothie from "./GreenTeaSmoothie.png"
-import Cappuccino from "./Cappuccino.png"
-import Lemonade from "./Lemonade.png"
-import Espresso from "./Espresso.png"
-import Margarita from "./Margarita.png"
+ // import StrawberryMilkshake from "./StrawberryMilkshake.png"
+// import GreenTeaSmoothie from "./GreenTeaSmoothieSmoothie.png"
+// import Cappuccino from "./Cappuccino.png"
+// import Lemonade from "./Lemonade.png"
+// import Espresso from "./Espresso.png"
+// import Margarita from "./Margarita.png"
 
 
 export const dummyMenuData = {
@@ -110,22 +109,22 @@ export const dummyMenuData = {
       image: PancakeswithMapleSyrup,
       description: 'Fluffy pancakes drizzled with pure maple syrup.',
     },
-    {
-      id: 'breakfast-4',
-      name: 'Fruit Smoothie Bowl',
-      price: '90',
-      rating: 4.6,
-      image: FruitSmoothieBowl,
-      description: 'A bowl full of fresh fruits blended into a refreshing smoothie.',
-    },
-    {
-      id: 'breakfast-5',
-      name: 'Sunny Oats',
-      price: '65',
-      rating: 4.4,
-      image: SunnyOats,
-      description: 'Creamy oatmeal swirled with cinnamon and honey.',
-    },
+    // {
+    //   id: 'breakfast-4',
+    //   name: 'Fruit Smoothie Bowl',
+    //   price: '90',
+    //   rating: 4.6,
+    //   image: FruitSmoothieBowl,
+    //   description: 'A bowl full of fresh fruits blended into a refreshing smoothie.',
+    // },
+    // {
+    //   id: 'breakfast-5',
+    //   name: 'Sunny Oats',
+    //   price: '65',
+    //   rating: 4.4,
+    //   image: SunnyOats,
+    //   description: 'Creamy oatmeal swirled with cinnamon and honey.',
+    // },
     {
       id: 'breakfast-6',
       name: ' Banana Toast',
@@ -134,14 +133,14 @@ export const dummyMenuData = {
       image: BananaToast,
       description: 'Toast topped with peanut butter and banana slices.',
     },
-    {
-      id: 'breakfast-7',
-      name: 'Bagel Smash',
-      price: '80',
-      rating: 4.5,
-      image: BagelSmash,
-      description: 'Toasted bagel with cream cheese and smoked salmon.',
-    },
+    // {
+    //   id: 'breakfast-7',
+    //   name: 'Bagel Smash',
+    //   price: '80',
+    //   rating: 4.5,
+    //   image: BagelSmash,
+    //   description: 'Toasted bagel with cream cheese and smoked salmon.',
+    // },
     {
       id: 'breakfast-8',
       name: 'Fruit Waffle',
@@ -224,22 +223,22 @@ export const dummyMenuData = {
       image: GrilledSalmonBowl,
       description: 'Grilled salmon over quinoa, roasted veggies, and lemon-dill sauce.',
     },
-    {
-      id: 'lunch-6',
-      name: 'Spicy Beef Tacos',
-      price: '180',
-      rating: 4.5,
-      image: SpicyBeefTacos,
-      description: 'Soft tortillas filled with seasoned beef, salsa, and avocado.',
-    },
-    {
-      id: 'lunch-7',
-      name: 'Sushi Combo',
-      price: '240',
-      rating: 4.8,
-      image: SushiCombo,
-      description: 'Assorted sushi rolls with tuna, salmon, avocado, and soy sauce.',
-    },
+    // {
+    //   id: 'lunch-6',
+    //   name: 'Spicy Beef Tacos',
+    //   price: '180',
+    //   rating: 4.5,
+    //   image: SpicyBeefTacos,
+    //   description: 'Soft tortillas filled with seasoned beef, salsa, and avocado.',
+    // },
+    // {
+    //   id: 'lunch-7',
+    //   name: 'Sushi Combo',
+    //   price: '240',
+    //   rating: 4.8,
+    //   image: SushiCombo,
+    //   description: 'Assorted sushi rolls with tuna, salmon, avocado, and soy sauce.',
+    // },
     {
       id: 'lunch-8',
       name: 'Red Chicken Curry',
@@ -248,14 +247,14 @@ export const dummyMenuData = {
       image: RedChickenCurry,
       description: ' a balance of creamy, sweet, and slightly spicy notes.',
     },
-    {
-      id: 'lunch-9',
-      name: 'Turkey Panini',
-      price: '130',
-      rating: 4.5,
-      image: TurkeyPanini,
-      description: 'Pressed panini with turkey, Swiss cheese, and pesto.',
-    },
+    // {
+    //   id: 'lunch-9',
+    //   name: 'Turkey Panini',
+    //   price: '130',
+    //   rating: 4.5,
+    //   image: TurkeyPanini,
+    //   description: 'Pressed panini with turkey, Swiss cheese, and pesto.',
+    // },
     {
       id: 'lunch-10',
       name: 'Quinoa Salad',
@@ -272,14 +271,14 @@ export const dummyMenuData = {
       image: PastaSalad,
       description: 'Chilled pasta salad with fresh vegetables and Italian dressing.',
     },
-    {
-      id: 'lunch-12',
-      name: 'Fish Tacos',
-      price: '129',
-      rating: 4.4,
-      image: FishTacos,
-      description: 'Grilled fish tacos with cabbage slaw and lime crema.',
-    },
+    // {
+    //   id: 'lunch-12',
+    //   name: 'Fish Tacos',
+    //   price: '129',
+    //   rating: 4.4,
+    //   image: FishTacos,
+    //   description: 'Grilled fish tacos with cabbage slaw and lime crema.',
+    // },
   ],
   Dinner: [
     {
@@ -338,30 +337,30 @@ export const dummyMenuData = {
       image: GarlicButterLambChops,
       description: 'Tender lamb chops glazed with rosemary garlic butter.',
     },
-    {
-      id: 'dinner-8',
-      name: 'Vegetarian Stuffed Peppers',
-      price: '189',
-      rating: 4.5,
-      image: VegetarianStuffedPeppers,
-      description: 'Bell peppers filled with a savory mix of quinoa, black beans, and vegetables.',
-    },
-    {
-      id: 'dinner-9',
-      name: 'Beef Bourguignon',
-      price: '250',
-      rating: 4.6,
-      image: BeefBourguignon,
-      description: 'Classic French beef stew with red wine and mushrooms.',
-    },
-    {
-      id: 'dinner-10',
-      name: 'Vegetable Stir Fry',
-      price: '150',
-      rating: 4.2,
-      image: VegetableStirFry,
-      description: 'Crispy vegetables stir-fried in a tangy sauce.',
-    },
+    // {
+    //   id: 'dinner-8',
+    //   name: 'Vegetarian Stuffed Peppers',
+    //   price: '189',
+    //   rating: 4.5,
+    //   image: VegetarianStuffedPeppers,
+    //   description: 'Bell peppers filled with a savory mix of quinoa, black beans, and vegetables.',
+    // },
+    // {
+    //   id: 'dinner-9',
+    //   name: 'Beef Bourguignon',
+    //   price: '250',
+    //   rating: 4.6,
+    //   image: BeefBourguignon,
+    //   description: 'Classic French beef stew with red wine and mushrooms.',
+    // },
+    // {
+    //   id: 'dinner-10',
+    //   name: 'Vegetable Stir Fry',
+    //   price: '150',
+    //   rating: 4.2,
+    //   image: VegetableStirFry,
+    //   description: 'Crispy vegetables stir-fried in a tangy sauce.',
+    // },
     {
       id: 'dinner-11',
       name: 'Shrimp Scampi',
@@ -380,14 +379,14 @@ export const dummyMenuData = {
     },
   ],
   Mexican: [
-    {
-      id: 'mexican-1',
-      name: 'Tacos al Pastor',
-      price: '11.99',
-      rating: 4.6,
-      image: TacosalPastor,
-      description: 'Tacos with marinated pork, pineapple, and cilantro.',
-    },
+    // {
+    //   id: 'mexican-1',
+    //   name: 'Tacos al Pastor',
+    //   price: '11.99',
+    //   rating: 4.6,
+    //   image: TacosalPastor,
+    //   description: 'Tacos with marinated pork, pineapple, and cilantro.',
+    // },
     {
       id: 'mexican-2',
       name: 'Chicken Quesadilla',
@@ -460,14 +459,14 @@ export const dummyMenuData = {
       image: Burrito,
       description: 'A large flour tortilla filled with beans, rice, and meat.',
     },
-    {
-      id: 'mexican-11',
-      name: 'Tamales',
-      price: '89',
-      rating: 4.4,
-      image: Tamales,
-      description: 'Steamed masa filled with meats or vegetables.',
-    },
+    // {
+    //   id: 'mexican-11',
+    //   name: 'Tamales',
+    //   price: '89',
+    //   rating: 4.4,
+    //   image: Tamales,
+    //   description: 'Steamed masa filled with meats or vegetables.',
+    // },
     {
       id: 'mexican-12',
       name: 'Chilaquiles',
@@ -478,14 +477,14 @@ export const dummyMenuData = {
     },
   ],
   Italian: [
-    {
-      id: 'italian-1',
-      name: 'Spaghetti Carbonara',
-      price: '199',
-      rating: 4.7,
-      image: SpaghettiCarbonara,
-      description: 'Classic pasta with eggs, cheese, pancetta, and pepper.',
-    },
+    // {
+    //   id: 'italian-1',
+    //   name: 'Spaghetti Carbonara',
+    //   price: '199',
+    //   rating: 4.7,
+    //   image: SpaghettiCarbonara,
+    //   description: 'Classic pasta with eggs, cheese, pancetta, and pepper.',
+    // },
     {
       id: 'italian-2',
       name: 'Lasagna',
@@ -566,24 +565,24 @@ export const dummyMenuData = {
       image: Gnocchi,
       description: 'Soft potato dumplings served with a marinara sauce.',
     },
-    {
-      id: 'italian-12',
-      name: 'Osso Buco',
-      price: '18.50',
-      rating: 4.7,
-      image: OssoBuco,
-      description: 'Braised veal shanks with vegetables and white wine.',
-    },
+    // {
+    //   id: 'italian-12',
+    //   name: 'Osso Buco',
+    //   price: '18.50',
+    //   rating: 4.7,
+    //   image: OssoBuco,
+    //   description: 'Braised veal shanks with vegetables and white wine.',
+    // },
   ],
   Desserts: [
-    {
-      id: 'desserts-1',
-      name: 'Tiramisu',
-      price: '650',
-      rating: 4.7,
-      image: TiramisuCake,
-      description: 'Classic Italian dessert with coffee and mascarpone.',
-    },
+    // {
+    //   id: 'desserts-1',
+    //   name: 'Tiramisu',
+    //   price: '650',
+    //   rating: 4.7,
+    //   image: TiramisuCake,
+    //   description: 'Classic Italian dessert with coffee and mascarpone.',
+    // },
     {
       id: 'desserts-2',
       name: 'Gelato',
@@ -632,14 +631,14 @@ export const dummyMenuData = {
       image: Baklava,
       description: 'Layered pastry with chopped nuts and honey, a Middle Eastern delight.',
     },
-    {
-      id: 'desserts-8',
-      name: 'Strawberry Shortcake',
-      price: '680',
-      rating: 4.5,
-      image: StrawberryShortcake,
-      description: 'Fluffy cake layered with fresh strawberries and whipped cream.',
-    },
+    // {
+    //   id: 'desserts-8',
+    //   name: 'Strawberry Shortcake',
+    //   price: '680',
+    //   rating: 4.5,
+    //   image: StrawberryShortcake,
+    //   description: 'Fluffy cake layered with fresh strawberries and whipped cream.',
+    // },
     {
       id: 'desserts-9',
       name: 'Cheesecake',
@@ -674,14 +673,14 @@ export const dummyMenuData = {
     },
   ],
   Drinks: [
-    {
-      id: 'drinks-1',
-      name: 'Iced Latte',
-      price: '50',
-      rating: 4.0,
-      image: IcedLatte,
-      description: 'Cool and refreshing espresso-based iced latte.',
-    },
+    // {
+    //   id: 'drinks-1',
+    //   name: 'Iced Latte',
+    //   price: '50',
+    //   rating: 4.0,
+    //   image: IcedLatte,
+    //   description: 'Cool and refreshing espresso-based iced latte.',
+    // },
     {
       id: 'drinks-2',
       name: 'Mojito',
@@ -690,14 +689,14 @@ export const dummyMenuData = {
       image: Mojito,
       description: 'Classic mojito with mint, lime, and rum.',
     },
-    {
-      id: 'drinks-3',
-      name: 'Smoothie',
-      price: '60',
-      rating: 4.2,
-      image: Smoothie,
-      description: 'A blended mix of fruits for a refreshing drink.',
-    },
+    // {
+    //   id: 'drinks-3',
+    //   name: 'Smoothie',
+    //   price: '60',
+    //   rating: 4.2,
+    //   image: Smoothie,
+    //   description: 'A blended mix of fruits for a refreshing drink.',
+    // },
     {
       id: 'drinks-4',
       name: 'Iced Tea',
@@ -714,14 +713,14 @@ export const dummyMenuData = {
       image: MochaFrappuccino,
       description: 'Chilled coffee mixed with chocolate and blended with ice.',
     },
-    {
-      id: 'drinks-6',
-      name: 'Green Tea Smoothie',
-      price: '60',
-      rating: 4.3,
-      image: GreenTeaSmoothie,
-      description: 'A vibrant mix of green tea, fruits, and a splash of honey for sweetness.',
-    },
+    // {
+    //   id: 'drinks-6',
+    //   name: 'Green Tea Smoothie',
+    //   price: '60',
+    //   rating: 4.3,
+    //   image: GreenTeaSmoothie,
+    //   description: 'A vibrant mix of green tea, fruits, and a splash of honey for sweetness.',
+    // },
     {
       id: 'drinks-7',
       name: 'Caramel Macchiato',
@@ -730,45 +729,45 @@ export const dummyMenuData = {
       image: CaramelMacchiato,
       description: 'Layered espresso with steamed milk, topped with caramel drizzle.',
     },
-    {
-      id: 'drinks-8',
-      name: 'Strawberry Milkshake',
-      price: '65',
-      rating: 4.4,
-      image: StrawberryMilkshake,
-      description: 'Creamy milkshake loaded with fresh strawberries and a hint of vanilla.',
-    },
-    {
-      id: 'drinks-9',
-      name: 'Lemonade',
-      price: '45',
-      rating: 4.1,
-      image: Lemonade,
-      description: 'Freshly squeezed lemonade with a tangy kick.',
-    },
-    {
-      id: 'drinks-10',
-      name: 'Espresso',
-      price: '30',
-      rating: 4.2,
-      image: Espresso,
-      description: 'Strong and rich espresso shot to start your day.',
-    },
-    {
-      id: 'drinks-11',
-      name: 'Margarita',
-      price: '70',
-      rating: 4.3,
-      image: Margarita,
-      description: 'Refreshing margarita with tequila, lime, and a salt rim.',
-    },
-    {
-      id: 'drinks-12',
-      name: 'Cappuccino',
-      price: '49',
-      rating: 4.2,
-      image: Cappuccino,
-      description: 'Frothy cappuccino with a perfect balance of espresso and milk.',
-    },
+    // {
+    //   id: 'drinks-8',
+    //   name: 'Strawberry Milkshake',
+    //   price: '65',
+    //   rating: 4.4,
+    //   image: StrawberryMilkshake,
+    //   description: 'Creamy milkshake loaded with fresh strawberries and a hint of vanilla.',
+    // },
+    // {
+    //   id: 'drinks-9',
+    //   name: 'Lemonade',
+    //   price: '45',
+    //   rating: 4.1,
+    //   image: Lemonade,
+    //   description: 'Freshly squeezed lemonade with a tangy kick.',
+    // },
+    // {
+    //   id: 'drinks-10',
+    //   name: 'Espresso',
+    //   price: '30',
+    //   rating: 4.2,
+    //   image: Espresso,
+    //   description: 'Strong and rich espresso shot to start your day.',
+    // },
+    // {
+    //   id: 'drinks-11',
+    //   name: 'Margarita',
+    //   price: '70',
+    //   rating: 4.3,
+    //   image: Margarita,
+    //   description: 'Refreshing margarita with tequila, lime, and a salt rim.',
+    // },
+    // {
+    //   id: 'drinks-12',
+    //   name: 'Cappuccino',
+    //   price: '49',
+    //   rating: 4.2,
+    //   image: Cappuccino,
+    //   description: 'Frothy cappuccino with a perfect balance of espresso and milk.',
+    // },
   ],
 };

@@ -101,7 +101,7 @@ export const SpecialOffer = () => {
                         onClick={() => addToCart(item, 1)} // add quantity 1
                         className={`${addButtonBase} ${addButtonHover} ${commonTransition} relative flex items-center justify-center w-full h-10 rounded-lg overflow-hidden`}
                       >
-                        <div className="absolute inset-0 bg-gradient-to-r from-amber-500/28 to-transparent opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
+                        <div className="absolute inset-0 bg-gradient-to-r from-amber-400/30 to-transparent opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
                         <FaPlus className="text-lg transition-transform z-10" />
                         <span className="relative z-10 ml-2">Add</span>
                         <FloatingParticle />
