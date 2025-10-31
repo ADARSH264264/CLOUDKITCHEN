@@ -106,7 +106,7 @@ export const Contact = () => {
               <div className='pl-12 relative space-y-2 z-10'>
                 <p className='text-amber-100 font-light flex items-center'>
                   <FiGlobe className='text-green-400 text-xl mr-2' />
-                  +91 8299431275
+                  +91 6387438526
                 </p>
               </div>
             </div>
@@ -124,7 +124,7 @@ export const Contact = () => {
               </div>
               <div className='pl-12 relative z-10'>
                 <p className='text-amber-100 font-light text-lg'>
-                  hexagonsservices@gmail.com
+                  laxmikitchen@gmail.com
                 </p>
               </div>
             </div>
